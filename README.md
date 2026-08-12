@@ -10,8 +10,8 @@
 
 ## Summary | الملخص
 
-- **6** learning records
-- **26** training hours
+- **11** learning records
+- **32** training hours
 - **2** educational providers
 - Web development and cybersecurity
 
@@ -76,6 +76,66 @@
 - Duration: 2 hours
 - Issued: 21 October 2025
 - [View certificate](public/certificates/satr/php-functions-102.pdf)
+
+### Introduction to Cybersecurity | مقدمة في الأمن السيبراني
+
+<a href="public/certificates/satr/cybersecurity/intro-cybersecurity.pdf">
+  <img src="public/certificates/thumbnails/intro-cybersecurity.png" alt="Introduction to Cybersecurity course completion certificate" width="520">
+</a>
+
+- Provider: Satr Platform · Tuwaiq Academy
+- Level: Beginner
+- Duration: 1 hour
+- Issued: 25 July 2026
+- [View certificate](public/certificates/satr/cybersecurity/intro-cybersecurity.pdf)
+
+### Linux 101
+
+<a href="public/certificates/satr/cybersecurity/linux-101.pdf">
+  <img src="public/certificates/thumbnails/linux-101.png" alt="Linux 101 course completion certificate" width="520">
+</a>
+
+- Provider: Satr Platform · Tuwaiq Academy
+- Level: Beginner
+- Duration: 1 hour
+- Issued: 26 July 2026
+- [View certificate](public/certificates/satr/cybersecurity/linux-101.pdf)
+
+### Command-line 101
+
+<a href="public/certificates/satr/cybersecurity/command-line-101.pdf">
+  <img src="public/certificates/thumbnails/command-line-101.png" alt="Command-line 101 course completion certificate" width="520">
+</a>
+
+- Provider: Satr Platform · Tuwaiq Academy
+- Level: Beginner
+- Duration: 2 hours
+- Issued: 05 August 2026
+- [View certificate](public/certificates/satr/cybersecurity/command-line-101.pdf)
+
+### Linux: Files and Permissions
+
+<a href="public/certificates/satr/cybersecurity/linux-files-permissions.pdf">
+  <img src="public/certificates/thumbnails/linux-files-permissions.png" alt="Linux Files and Permissions course completion certificate" width="520">
+</a>
+
+- Provider: Satr Platform · Tuwaiq Academy
+- Level: Beginner
+- Duration: 1 hour
+- Issued: 07 August 2026
+- [View certificate](public/certificates/satr/cybersecurity/linux-files-permissions.pdf)
+
+### Introduction to Kali Linux | مقدمة في Kali Linux
+
+<a href="public/certificates/satr/cybersecurity/intro-kali-linux.pdf">
+  <img src="public/certificates/thumbnails/intro-kali-linux.png" alt="Introduction to Kali Linux course completion certificate" width="520">
+</a>
+
+- Provider: Satr Platform · Tuwaiq Academy
+- Level: Beginner
+- Duration: 1 hour
+- Issued: 12 August 2026
+- [View certificate](public/certificates/satr/cybersecurity/intro-kali-linux.pdf)
 
 ## Bootcamps & Attendance | المعسكرات والحضور
 

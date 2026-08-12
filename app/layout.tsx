@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Bassam Alzahrani | Certificates & Training",
   description:
-    "A curated record of Bassam Alzahrani's technical courses, bootcamps, and training.",
+    "A curated record of technical courses and cybersecurity training completed by Bassam Alzahrani, a Computer Science student.",
   icons: {
     icon: "/favicon.png",
     shortcut: "/favicon.png",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Bassam Alzahrani | Certificates & Training",
     description:
-      "A curated record of technical courses, bootcamps, and training.",
+      "Technical courses and cybersecurity training completed by Computer Science student Bassam Alzahrani.",
     images: [
       {
         url: "/og.png",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Bassam Alzahrani | Certificates & Training",
     description:
-      "A curated record of technical courses, bootcamps, and training.",
+      "Technical courses and cybersecurity training completed by Computer Science student Bassam Alzahrani.",
     images: ["/og.png"],
   },
 };

@@ -66,6 +66,61 @@ const courses: Certificate[] = [
     document: "/certificates/satr/php-functions-102.pdf",
     accent: "cyan",
   },
+  {
+    title: "Introduction to Cybersecurity",
+    titleAr: "مقدمة في الأمن السيبراني",
+    issuer: "Satr Platform · Tuwaiq Academy",
+    date: "25 Jul 2026",
+    duration: "1 ساعة",
+    level: "مبتدئ",
+    image: "/certificates/thumbnails/intro-cybersecurity.png",
+    document: "/certificates/satr/cybersecurity/intro-cybersecurity.pdf",
+    accent: "gold",
+  },
+  {
+    title: "Linux 101",
+    titleAr: "أساسيات نظام Linux",
+    issuer: "Satr Platform · Tuwaiq Academy",
+    date: "26 Jul 2026",
+    duration: "1 ساعة",
+    level: "مبتدئ",
+    image: "/certificates/thumbnails/linux-101.png",
+    document: "/certificates/satr/cybersecurity/linux-101.pdf",
+    accent: "cyan",
+  },
+  {
+    title: "Command-line 101",
+    titleAr: "أساسيات سطر الأوامر",
+    issuer: "Satr Platform · Tuwaiq Academy",
+    date: "05 Aug 2026",
+    duration: "ساعتان",
+    level: "مبتدئ",
+    image: "/certificates/thumbnails/command-line-101.png",
+    document: "/certificates/satr/cybersecurity/command-line-101.pdf",
+    accent: "gold",
+  },
+  {
+    title: "Linux: Files and Permissions",
+    titleAr: "الملفات والصلاحيات في Linux",
+    issuer: "Satr Platform · Tuwaiq Academy",
+    date: "07 Aug 2026",
+    duration: "1 ساعة",
+    level: "مبتدئ",
+    image: "/certificates/thumbnails/linux-files-permissions.png",
+    document: "/certificates/satr/cybersecurity/linux-files-permissions.pdf",
+    accent: "cyan",
+  },
+  {
+    title: "Introduction to Kali Linux",
+    titleAr: "مقدمة في Kali Linux",
+    issuer: "Satr Platform · Tuwaiq Academy",
+    date: "12 Aug 2026",
+    duration: "1 ساعة",
+    level: "مبتدئ",
+    image: "/certificates/thumbnails/intro-kali-linux.png",
+    document: "/certificates/satr/cybersecurity/intro-kali-linux.pdf",
+    accent: "gold",
+  },
 ];
 
 function CertificateCard({ certificate }: { certificate: Certificate }) {
@@ -147,11 +202,11 @@ export default function Home() {
 
           <div className="hero-stats" aria-label="ملخص الشهادات">
             <div>
-              <strong>06</strong>
+              <strong>11</strong>
               <span>شهادات</span>
             </div>
             <div>
-              <strong>26</strong>
+              <strong>32</strong>
               <span>ساعة تدريبية</span>
             </div>
             <div>
@@ -171,8 +226,8 @@ export default function Home() {
             <h2>الدورات التقنية</h2>
           </div>
           <p>
-            خمس دورات قصيرة مكتملة عبر منصة سطر التابعة لأكاديمية طويق، تغطي
-            تطوير الواجهات والبرمجة بلغة PHP وJavaScript.
+            عشر دورات مكتملة عبر منصة سطر التابعة لأكاديمية طويق، تغطي تطوير
+            الويب وأساسيات الأمن السيبراني وLinux وسطر الأوامر.
           </p>
         </header>
 
@@ -264,9 +319,7 @@ export default function Home() {
       <footer>
         <div>
           <strong dir="ltr">BASSAM ALZAHRANI</strong>
-          <p dir="ltr">
-            Electronics &amp; Communication Engineering Graduate
-          </p>
+          <p dir="ltr">Computer Science Student · Cybersecurity</p>
         </div>
         <p className="disclaimer">
           تُعرض هذه السجلات بصفتها شهادات إتمام دورات أو حضور، وليست تراخيص
