@@ -4,9 +4,9 @@
   <img src="public/og.png" alt="Bassam Alzahrani — Certificates & Training" width="900">
 </div>
 
-سجل منظّم للدورات التقنية والمعسكرات التدريبية التي أكملها **بسام الزهراني**، خريج هندسة الإلكترونيات والاتصالات والمهتم بالأنظمة المضمنة، وتصميم الدوائر المطبوعة، وPython، والبحث والتطوير.
+**طالب علوم حاسب مهتم بالأمن السيبراني.**
 
-An organized record of technical courses and bootcamps completed by **Bassam Alzahrani**, an Electronics and Communication Engineering graduate interested in Embedded Systems, PCB Design, Python, and R&D.
+**Computer Science student interested in cybersecurity.**
 
 ## Summary | الملخص
 
